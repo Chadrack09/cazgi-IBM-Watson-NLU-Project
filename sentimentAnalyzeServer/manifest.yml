@@ -2,6 +2,7 @@
 applications:
 - path: .
   name: sentiment-analyzer
+  buildpack: nodejs_buildpack
   memory: 256M
   instances: 1
   random-route: true
