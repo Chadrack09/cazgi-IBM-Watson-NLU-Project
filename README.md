@@ -49,7 +49,3 @@ natural_language_understanding.analyze(parameters, function(err, response) {
     console.log(JSON.stringify(response, null, 2));
 });
 ```
-
-
-#### IBM Cloud - Node.JS, Express, React.JS
-Deployed on IBM Cloud: https://persistent-gerenuk-it.eu-gb.mybluemix.net/
